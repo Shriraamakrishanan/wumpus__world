@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:   Sushmitha Gembunathan </h3>
-<h3>Register Number: 212224040342  </h3>
+<h3>Name:   SHRI RAAMA KRISHANAN J </h3>
+<h3>Register Number: 212224220100 </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
